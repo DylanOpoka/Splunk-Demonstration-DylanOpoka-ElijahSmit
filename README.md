@@ -1,11 +1,11 @@
 # Splunk-Demonstration-DylanOpoka-ElijahSmit-SethBishop
 Splunk demonstration for Digital Forensics Fall 2020
 
-Group members: Seth Bishop, Elijah Smith, Dylan Opoka
+Group members: Seth Bishop, Elijah Smith, Dylan Opoka\n
 Topics: 
-Seth Bishop: Interface/alerts in splunk
-Elijah Smith: Basics of search feature
-Dylan Opoka: How to create basic reports
+Seth Bishop: Interface/alerts in splunk\n
+Elijah Smith: Basics of search feature\n
+Dylan Opoka: How to create basic reports\n
 
 Link to Dylan Opoka's video on how to create basic reports in splunk:
 https://app.vidgrid.com/view/tt4qRLQ5D1UY
