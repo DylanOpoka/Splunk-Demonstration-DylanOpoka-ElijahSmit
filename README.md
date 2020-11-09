@@ -3,7 +3,7 @@ Splunk demonstration for Digital Forensics Fall 2020
 
 Group members: Seth Bishop, Elijah Smith, Dylan Opoka  
 Topics:    
-Seth Bishop: Interface/alerts in splunk  
+Seth Bishop: Intro/alerts in splunk  
 Elijah Smith: Basics of search feature  
 Dylan Opoka: How to create basic reports  
 
